@@ -4,7 +4,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/pmuens/xchacha20-poly1305/internal"
+	"github.com/primefactor-io/xchacha20-poly1305/internal"
 )
 
 func TestMul(t *testing.T) {

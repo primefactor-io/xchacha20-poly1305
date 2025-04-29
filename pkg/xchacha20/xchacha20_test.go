@@ -4,7 +4,7 @@ import (
 	"slices"
 	"testing"
 
-	"github.com/pmuens/xchacha20-poly1305/pkg/xchacha20"
+	"github.com/primefactor-io/xchacha20-poly1305/pkg/xchacha20"
 )
 
 func TestXChaCha20XORWithKeyStream(t *testing.T) {

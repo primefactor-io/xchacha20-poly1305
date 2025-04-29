@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/pmuens/xchacha20-poly1305/internal"
+	"github.com/primefactor-io/xchacha20-poly1305/internal"
 )
 
 func main() {

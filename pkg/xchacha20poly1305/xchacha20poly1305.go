@@ -4,9 +4,9 @@
 package xchacha20poly1305
 
 import (
-	"github.com/pmuens/xchacha20-poly1305/pkg/chacha20poly1305"
-	"github.com/pmuens/xchacha20-poly1305/pkg/poly1305"
-	"github.com/pmuens/xchacha20-poly1305/pkg/xchacha20"
+	"github.com/primefactor-io/xchacha20-poly1305/pkg/chacha20poly1305"
+	"github.com/primefactor-io/xchacha20-poly1305/pkg/poly1305"
+	"github.com/primefactor-io/xchacha20-poly1305/pkg/xchacha20"
 )
 
 const (
